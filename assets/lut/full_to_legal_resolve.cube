@@ -1,0 +1,12 @@
+# Full to legal scaling, sub-blacks, super-whites preserved
+# Created by Attila Bakos, colorizer.net
+
+LUT_1D_SIZE 6
+LUT_1D_INPUT_RANGE -0.073059361 1.094748858
+
+0.0 0.0 0.0
+0.2 0.2 0.2
+0.4 0.4 0.4
+0.6 0.6 0.6
+0.8 0.8 0.8
+1.0 1.0 1.0 
